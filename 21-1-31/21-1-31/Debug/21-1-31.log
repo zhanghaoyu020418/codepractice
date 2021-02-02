@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\a六星教育\codepractice\21-1-31\21-1-31\test.cpp(52): error C3867: “CStudent::getname”: 非标准语法；请使用 "&" 来创建指向成员的指针
+  作业.cpp
+  正在生成代码...
